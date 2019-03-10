@@ -4,6 +4,13 @@ A Chrome extension that enables to visit b:// urls [, which are on Bitcoin SV bl
 
 ![b_extension_gif](https://raw.githubusercontent.com/prayer0/b-extension/master/assets/screencast.gif)
 
+## Installation
+
+- Download and extract the .zip file
+- Open Chrome and go to chrome://extensions/
+- Enable developer mode
+- Click to "Load unpacked extension" button and select the folder you extracted
+
 ## Usage
 
 - Click the search bar
