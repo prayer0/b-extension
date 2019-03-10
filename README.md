@@ -2,6 +2,8 @@
 
 A Chrome extension that enables to visit b:// urls [, which are on Bitcoin SV blockchain] directly via search bar. It also replaces b:// resources on websites with Metanet content provider resources in distributed way.
 
+![b_extension_gif](https://raw.githubusercontent.com/prayer0/b-extension/master/assets/screencast.gif)
+
 ## Usage:
 
 - Click the search bar
