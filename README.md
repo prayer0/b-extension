@@ -4,14 +4,14 @@ A Chrome extension that enables to visit b:// urls [, which are on Bitcoin SV bl
 
 ![b_extension_gif](https://raw.githubusercontent.com/prayer0/b-extension/master/assets/screencast.gif)
 
-## Usage:
+## Usage
 
 - Click the search bar
 - Type "b" and press TAB
 - Enter txid
 - Go
 
-## Current providers:
+## Current providers
 
 - exfuturo.org
 - bitcoinfiles.org
